@@ -1,4 +1,4 @@
-baseURL = "https://pasindujr.github.io/"
+baseURL = ""
 title = "pasindujr 👨‍💻"
 theme = "hugo-coder"
 languageCode = "en"
