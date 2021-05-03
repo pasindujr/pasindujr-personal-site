@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 title = "pasindujr 👨‍💻"
 theme = "hugo-coder"
 languageCode = "en"
