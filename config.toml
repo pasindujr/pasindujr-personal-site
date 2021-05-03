@@ -75,7 +75,7 @@ tag = "tags"
 author = "authors"
 
 [permalinks]
-    posts = "/blog/:filename"
+posts = "/blog/:filename"
 
 [[params.social]]
 name = "Github"
@@ -119,7 +119,7 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
@@ -129,10 +129,10 @@ url = "/blog/"
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "/projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "contact/"
+url = "/contact/"
 
