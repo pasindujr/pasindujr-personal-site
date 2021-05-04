@@ -27,6 +27,7 @@ This is how I created and deployed this.
 Check my GitHub repo [here](https://github.com/pasindujr/personal-url-shortner).
 
 If You have any questions or want to step up this project with automating stuff, check this video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HL6paXyx6hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HL6paXyx6hM/0.jpg)](http://www.youtube.com/watch?v=HL6paXyx6hM "Make a SUPER simple personal URL shortener with Netlify
+")
 
   
