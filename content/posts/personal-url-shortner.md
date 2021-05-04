@@ -5,8 +5,7 @@ draft: false
 tags: [blog, projects]
 ---
 
-[![](/static/img/blog-paperclips.jpg)
-
+![image](https://pasindujr.me\static\img\blog-paperclips.jpg)
 
 This is to roll my own short URLs (Sometimes those URLs are actually not short 😉, I just created this and connected a domain I own for the fun and that's all.) 
 This is how I created and deployed this.
@@ -27,7 +26,6 @@ This is how I created and deployed this.
 Check my GitHub repo [here](https://github.com/pasindujr/personal-url-shortner).
 
 If You have any questions or want to step up this project with automating stuff, check this video.
-[![](http://img.youtube.com/vi/HL6paXyx6hM/0.jpg)](http://www.youtube.com/watch?v=HL6paXyx6hM "Make a SUPER simple personal URL shortener with Netlify
-")
+[![Video](http://img.youtube.com/vi/HL6paXyx6hM/0.jpg)](http://www.youtube.com/watch?v=HL6paXyx6hM "Make a SUPER simple personal URL shortener with Netlify")
 
   
