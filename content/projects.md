@@ -5,4 +5,4 @@ draft: false
 ---
 ## List of my projects.
 
-1.project 1
+1.[GO.PASINDUJR.ME - Personal Url Shortner 🔗](https://pasindujr.me/blog/personal-url-shortner/)
