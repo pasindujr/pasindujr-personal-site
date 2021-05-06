@@ -3,7 +3,7 @@ title: "go.pasindujr.me - Personal Url Shortner 🔗"
 date: 2021-05-04T20:42:34+05:30
 draft: false
 tags: [blog, projects]
-author: "Pasindu Ruwandeniya"
+authors: "Pasindu Ruwandeniya"
 ---
 
 This is to roll my own short URLs (Sometimes those URLs are actually not short 😉, I just created this and connected a domain I own for the fun and that's all.) 
