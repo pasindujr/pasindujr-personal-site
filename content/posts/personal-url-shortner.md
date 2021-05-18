@@ -1,5 +1,5 @@
 ---
-title: "go.pasindujr.me - Personal Url Shortner 🔗"
+title: "go.pasindujr.me - Personal URL Shortner 🔗"
 date: 2021-05-04T20:42:34+05:30
 draft: false
 tags: ["blog", "projects"]
