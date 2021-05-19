@@ -6,9 +6,10 @@ tags: ["blog", "projects"]
 authors: ["Pasindu Ruwandeniya"]
 ---
 
-Simple SoundCloud playlist creator using Soundcloud API. <br/>
-[The player](https://go.pasindujr.me/sc) <br/>
-[The GitHub repo](https://github.com/pasindujr/soundcloud-player)
+Simple SoundCloud playlist creator using Soundcloud API.
+
+ - [The Player](https://go.pasindujr.me/sc)
+ - [The GitHub repo](https://github.com/pasindujr/soundcloud-player)
 
 1. I develop these simple SoundCloud player to sharpen my JavaScript knowledge.
 2. In `main.js` file there are 4 main sections to resolve as you can see.
@@ -20,7 +21,7 @@ Simple SoundCloud playlist creator using Soundcloud API. <br/>
 ## Query Soundcloud API.
 
 1. Even though this is the 2nd section, I want to tackle this first.
-2. You can read more about the "Search" function in [Soundcloud docs.](https://developers.soundcloud.com/docs/api/guide#search) 
+2. You can read more about the "Search" function in [SoundCloud docs.](https://developers.soundcloud.com/docs/api/guide#search) 
 3. I copied the code in SoundCloud docs and refactored as I want (Removed `<script>` tags, removed license filter and put the "Client Id")
 ```
 SC.initialize({
@@ -57,7 +58,7 @@ SoundCloudAPI.getTracks = function (inputValue) {
 	});
 };
 ```
-5. Used an `if` condition to avoid searching empty keywords.
+5. Used an `if` condition to avoid searching blank keywords.
 
 ## Displaying Cards.
 
