@@ -1,13 +1,13 @@
 ---
-title: "Soundcloud Playlist Creator"
+title: "Soundcloud Playlist Creator 🎵"
 date: 2021-05-19T17:16:33+05:30
 draft: false
 tags: ["blog", "projects"]
 authors: ["Pasindu Ruwandeniya"]
 ---
 
-Simple SoundCloud playlist creator using Soundcloud API.
-[The player](https://go.pasindujr.me/sc)
+Simple SoundCloud playlist creator using Soundcloud API. <br/>
+[The player](https://go.pasindujr.me/sc) <br/>
 [The GitHub repo](https://github.com/pasindujr/soundcloud-player)
 
 1. I develop these simple SoundCloud player to sharpen my JavaScript knowledge.
