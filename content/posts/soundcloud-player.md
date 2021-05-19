@@ -1,5 +1,5 @@
 ---
-title: "Soundcloud Playlist Creator 🎵"
+title: "SoundCloud Playlist Creator 🎵"
 date: 2021-05-19T17:16:33+05:30
 draft: false
 tags: ["blog", "projects"]
