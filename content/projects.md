@@ -14,3 +14,5 @@ draft: false
 *Simple SoundCloud playlist creator using SoundCloud API*
 
 ------------
+[Blood Bank System 🩸](https://pasindujr.me/blog/blood-bank-system/)
+*Blood Bank management system with the SMS notification capability*
