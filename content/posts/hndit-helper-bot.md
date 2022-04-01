@@ -76,10 +76,10 @@ And that's basically it. Below I have put the links to Bot's GitHub repository a
 
 [![GitHub Repo][1]][2]
 
-[1]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[1]: /img/GitHub-100000.svg
 [2]: https://github.com/pasindujr/HnditHelperBot 
 
 [![Botlink][3]][4]
 
-[3]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[3]: /img/Telegram2CA5E0.svg
 [4]: https://t.me/hndithelperbot
