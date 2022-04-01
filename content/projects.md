@@ -16,3 +16,7 @@ draft: false
 ------------
 [Blood Bank System 🩸](https://pasindujr.me/blog/blood-bank-system/)
 *Blood Bank management system with the SMS notification capability*
+
+------------
+[HNDIT Helper Bot 🤖](https://pasindujr.me/blog/hndit-helper-bot/)
+*A bot helps with finding past papers, notes and other materials for SLIATE HNDIT students*
