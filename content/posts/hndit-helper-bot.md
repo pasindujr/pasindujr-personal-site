@@ -1,5 +1,5 @@
 ---
-title: "I build a Telegram Bot for HNDIT students"
+title: "I built a Telegram Bot for HNDIT students"
 date: 2022-03-27T20:59:26+05:30
 draft: false
 tags: ["blog", "projects"]
