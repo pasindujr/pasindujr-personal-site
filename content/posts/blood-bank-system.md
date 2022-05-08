@@ -12,7 +12,7 @@ More specifically, this system is designed to allow staff of donation campaigns 
 
 [![GitHub Repo](/img/GitHub-100000.svg)](https://github.com/pasindujr/blood-bank-system)
 
-*Heroku deployment coming soon!*
+[![Heroku Deployment](/img/Hekoru-430098.svg)](https://kegalle-blood-bank.herokuapp.com/)
 
 # Tools and languages used
 
