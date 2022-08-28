@@ -16,15 +16,12 @@ More specifically, this system is designed to allow staff of donation campaigns 
 
 # Tools and languages used
 
-## Front end languages
+## Front end languages and technologies
 
 - HTML
 - CSS
 - JavaScript
-- Ajax
-
-## Front end frameworks
-
+- jQuery
 - Bootstrap
 
 ## Back end language and framework
