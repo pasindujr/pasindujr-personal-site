@@ -143,7 +143,12 @@ weight = 4
 url = "https://codestandup.com/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "[JsonPoint]"
 weight = 5
+url = "https://jsonpoint.com/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 6
 url = "/contact/"
 
