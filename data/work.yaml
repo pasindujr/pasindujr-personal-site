@@ -1,0 +1,83 @@
+work:
+  - title: "JSONPoint"
+    meta: "Jan – Mar 2026"
+    summary: >
+      A web-based JSON viewer, validator, formatter and sharing platform.
+      Full-stack Laravel with Livewire & TypeScript, secure shareable links and
+      a responsive UI, deployed on DigitalOcean behind Cloudflare Turnstile.
+    image: "/images/work/jsonpoint.svg"
+    tags: ["Laravel", "Livewire", "TypeScript", "DigitalOcean"]
+    links:
+      - label: "Live Site"
+        url: "https://jsonpoint.com"
+
+  - title: "AI Palm Reader"
+    summary: >
+      Upload a photo of a palm and get a reading. Laravel + Livewire backend
+      calls the OpenAI API and uses Prism to return a clean structured reading
+      from the image.
+    image: "/images/work/palm-reader.svg"
+    tags: ["Laravel", "Livewire", "OpenAI", "Prism"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/palm-reader"
+
+  - title: "Anonaly"
+    summary: >
+      A TALL-stack web app to give and receive anonymous feedback — a
+      tellonym.me / CuriousCat-style take built with Tailwind CSS, AlpineJS,
+      Laravel and Livewire.
+    image: "/images/work/anonaly.svg"
+    tags: ["Laravel", "Livewire", "Tailwind CSS", "AlpineJS"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/anonaly"
+
+  - title: "HNDIT Helper Bot"
+    summary: >
+      A Telegram bot that helps SLIATE HNDIT students find past papers and
+      notes — built with Python and pyTelegramBotAPI and used daily by many
+      students.
+    image: "/images/work/hndit-bot.svg"
+    tags: ["Python", "pyTelegramBotAPI", "Telegram"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/HnditHelperBot"
+      - label: "Bot"
+        url: "https://t.me/hndithelperbot"
+
+  - title: "Blood Bank System"
+    meta: "2022"
+    summary: >
+      Donor & blood packet management for local blood banks — registers donors,
+      runs donation campaigns and automates SMS notifications with a
+      personalized message when a donor's blood is used.
+    image: "/images/work/blood-bank.svg"
+    tags: ["PHP", "Laravel", "SMS"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/blood-bank-system"
+
+  - title: "Personal URL Shortener"
+    meta: "2021"
+    summary: >
+      go.pasindujr.me — a zero-backend personal URL shortener powered by
+      Netlify's optimized edge redirects and a _redirects file on a domain I
+      own.
+    image: "/images/work/url-shortener.svg"
+    tags: ["Netlify", "Redirects"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/personal-url-shortner"
+
+  - title: "SoundCloud Playlist Creator"
+    meta: "2021"
+    summary: >
+      Simple SoundCloud playlist creator built against the SoundCloud API to
+      sharpen JavaScript skills — search tracks and resolve them into a
+      working player.
+    image: "/images/work/soundcloud.svg"
+    tags: ["JavaScript", "SoundCloud API"]
+    links:
+      - label: "GitHub"
+        url: "https://github.com/pasindujr/soundcloud-player"

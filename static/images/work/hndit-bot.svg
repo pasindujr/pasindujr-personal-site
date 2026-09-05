@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="HNDIT Helper Bot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22607c"/>
+      <stop offset="1" stop-color="#123042"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="150" cy="480" r="200" fill="#4fc3e8" opacity="0.12"/>
+  <g transform="translate(400,315)">
+    <rect x="-95" y="-70" width="190" height="150" rx="24" fill="#cfe7f0"/>
+    <rect x="-55" y="-42" width="110" height="34" rx="17" fill="#2b6f8f"/>
+    <rect x="-60" y="24" width="48" height="26" rx="13" fill="#2b6f8f"/>
+    <rect x="12" y="24" width="48" height="26" rx="13" fill="#2b6f8f"/>
+    <circle cy="-92" r="9" fill="#ffca5e"/>
+    <rect x="-5" y="-84" width="10" height="26" rx="5" fill="#cfe7f0"/>
+    <text x="0" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="8" fill="#7fb6cc">HNDIT BOT</text>
+  </g>
+</svg>

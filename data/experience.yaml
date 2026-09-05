@@ -1,0 +1,25 @@
+experience:
+  - date: "Jul 2025 – Present"
+    detail: >
+      **Backend Engineer** · IconBlocks Inc — New York, United States<br>
+      RESTful APIs in PHP & Laravel feeding financial transaction data into
+      PostgreSQL warehouse pipelines; React + TypeScript interfaces for internal
+      systems; a Redis caching strategy that cut API response times by **30%**.
+    badges: ["Laravel", "Redis"]
+
+  - date: "Feb 2023 – Jun 2025"
+    detail: >
+      **Software Engineer** · GDCreations — Nittambuwa, Sri Lanka<br>
+      Designed, developed and maintained robust leasing finance systems in
+      Laravel with Vue.js user interfaces, and wrote CI/CD pipelines that deploy
+      applications seamlessly across multiple environments.
+    badges: ["Laravel", "Vue.js"]
+
+  - date: "Jun 2022 – Dec 2022"
+    detail: >
+      **Intern / Trainee Software Engineer** · Circlebook (PVT) LTD — Kandy,
+      Sri Lanka<br>
+      Hands-on web development with PHP & Laravel — contributed to web
+      applications and APIs, code reviews, bug fixes and continuous learning
+      with cross-functional teams.
+    badges: ["PHP", "Laravel"]

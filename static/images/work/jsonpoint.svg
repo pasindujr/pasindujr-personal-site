@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="JSONPoint">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12232e"/>
+      <stop offset="1" stop-color="#0c141b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="640" cy="120" r="190" fill="#5e7f7a" opacity="0.18"/>
+  <circle cx="130" cy="520" r="230" fill="#8ec9b6" opacity="0.10"/>
+  <text x="400" y="350" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="170" font-weight="bold" fill="#a8d8cd">{ }</text>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="12" fill="#6f9c93">JSONPOINT</text>
+</svg>

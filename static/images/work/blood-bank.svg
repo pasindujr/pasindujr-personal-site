@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Blood Bank System">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f2137"/>
+      <stop offset="1" stop-color="#4c0f1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="660" cy="110" r="200" fill="#ff8fa3" opacity="0.12"/>
+  <g transform="translate(400,310)">
+    <path d="M 0 -140 C 90 -40 105 10 105 60 A 105 105 0 0 1 -105 60 C -105 10 -90 -40 0 -140 Z" fill="#f2b8c1"/>
+    <path d="M -28 18 h 20 v -30 h 16 v 30 h 20 v 16 h -20 v 30 h -16 v -30 h -20 Z" fill="#9c273f"/>
+    <text x="0" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="8" fill="#e59aa8">BLOOD BANK</text>
+  </g>
+</svg>

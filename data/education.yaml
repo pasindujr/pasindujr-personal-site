@@ -1,0 +1,8 @@
+education:
+  - date: "2023"
+    detail: "**BSc (Hons) in Software Engineering** — Cardiff Metropolitan University"
+    badges: ["Cardiff, Wales"]
+
+  - date: "2022"
+    detail: "**Higher National Diploma in Information Technology** — SLIATE"
+    badges: ["Sri Lanka", "GPA 3.94"]

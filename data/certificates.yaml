@@ -1,0 +1,8 @@
+certificates:
+  - date: "2022"
+    detail: "**Google Cloud Fundamentals: Core Infrastructure**"
+    badges: ["Coursera"]
+
+  - date: "2022"
+    detail: "**Cybersecurity Essentials**"
+    badges: ["Cisco Networking Academy"]

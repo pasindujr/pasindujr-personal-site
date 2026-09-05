@@ -1,0 +1,45 @@
+name: "Pasindu Ruwandeniya"
+title: "Software Engineer<br>Laravel • React • TypeScript"
+affiliation: "Kottawa, Colombo District, Sri Lanka"
+profile_image: "/images/avatar.jpg"
+profile_layout: "modern"
+profile_image_style: "circle"
+summary: >
+  Backend-focused engineer with 5 years of experience designing and building
+  **scalable leasing finance systems** in Laravel. I ship user-centric interfaces
+  in React & TypeScript, move data through PostgreSQL pipelines, and write the
+  CI/CD workflows that get it all to production.
+list:
+  - "5 years building leasing & finance platforms on Laravel"
+  - "Cut API response times by 30% with a Redis caching strategy"
+  - "Worked cross-functionally in agile teams end to end"
+keyword_sections:
+  - title: "Back End"
+    rows:
+      - ["PHP", "Laravel", "Python", "Livewire"]
+  - title: "Front End"
+    rows:
+      - ["HTML", "CSS", "Tailwind CSS", "TypeScript", "jQuery", "React", "Inertia.js", "AlpineJS"]
+  - title: "DevOps"
+    rows:
+      - ["GitHub", "Bitbucket", "AWS", "Digital Ocean", "Cloudflare", "Google Cloud Platform"]
+  - title: "Soft Skills"
+    rows:
+      - ["Communication", "Attention to Detail"]
+links:
+  - label: "GitHub"
+    url: "https://github.com/pasindujr/"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/pasindujr/"
+  - label: "Email"
+    url: "mailto:pasindujayanada@gmail.com"
+  - label: "Twitter / X"
+    url: "https://twitter.com/pasindujr/"
+  - label: "Facebook"
+    url: "https://www.facebook.com/pasindujr/"
+  - label: "Instagram"
+    url: "https://instagram.com/pasindujr"
+  - label: "Telegram"
+    url: "https://t.me/pasindujr"
+  - label: "pasindujr.dev"
+    url: "https://pasindujr.dev"

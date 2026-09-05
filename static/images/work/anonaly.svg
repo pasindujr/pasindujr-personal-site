@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Anonaly">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2e2a4d"/>
+      <stop offset="1" stop-color="#171533"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="660" cy="480" r="220" fill="#8a7fc9" opacity="0.15"/>
+  <g transform="translate(400,285)">
+    <circle r="150" fill="none" stroke="#cfc8f2" stroke-width="12" opacity="0.9"/>
+    <text x="0" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="bold" fill="#cfc8f2">?</text>
+  </g>
+  <text x="400" y="530" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="10" fill="#a49ad9">ANONALY</text>
+</svg>

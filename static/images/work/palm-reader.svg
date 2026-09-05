@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="AI Palm Reader">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9a06b"/>
+      <stop offset="1" stop-color="#b0604f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="120" cy="110" r="150" fill="#f4d9b8" opacity="0.25"/>
+  <g transform="translate(285,80)" stroke="#f7e8d4" stroke-width="26" stroke-linecap="round" fill="none" opacity="0.92">
+    <line x1="115" y1="250" x2="115" y2="330"/>
+    <line x1="115" y1="250" x2="55" y2="315"/>
+    <line x1="115" y1="240" x2="115" y2="195"/>
+    <line x1="115" y1="240" x2="172" y2="200"/>
+    <line x1="115" y1="250" x2="175" y2="312"/>
+  </g>
+  <path d="M0 0 H800 L640 600 H0 Z" fill="#7d3f33" opacity="0.15"/>
+</svg>
