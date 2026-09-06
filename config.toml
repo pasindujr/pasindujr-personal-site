@@ -40,11 +40,6 @@ enableRobotsTXT = true
     layout = "news"
     title = "Education"
 
-[[params.navLinks]]
-label = "CV"
-url = "cv.pdf"
-target = "_blank"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
